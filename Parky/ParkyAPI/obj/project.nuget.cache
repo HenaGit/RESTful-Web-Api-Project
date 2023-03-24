@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "mrPu3aY6ePw0B11c2JlOoZJbj5qnkU3/tTLyNEOGN6gF/OqngieRw6JbdI6QhaI2KCuhEsc7XO+LAqHqS0iQ2Q==",
+  "dgSpecHash": "0Hkz2FLkltIcLzVlZALgtosA0UIGQ24XGLA0okU7vQMnfWo5wkbMX1uJEid4VlWjwLNE9XBO9E0qR9/jNj66UA==",
   "success": true,
   "projectFilePath": "D:\\DotNetProjects\\WebAPI\\Parky\\ParkyAPI\\ParkyAPI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Henk\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
+    "C:\\Users\\Henk\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
     "C:\\Users\\Henk\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Henk\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
     "C:\\Users\\Henk\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
