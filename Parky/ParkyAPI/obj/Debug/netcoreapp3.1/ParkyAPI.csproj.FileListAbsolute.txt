@@ -60,3 +60,5 @@ D:\DotNetProjects\WebAPI\Parky\ParkyAPI\bin\Debug\netcoreapp3.1\runtimes\unix\li
 D:\DotNetProjects\WebAPI\Parky\ParkyAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 D:\DotNetProjects\WebAPI\Parky\ParkyAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 D:\DotNetProjects\WebAPI\Parky\ParkyAPI\obj\Debug\netcoreapp3.1\ParkyAPI.csproj.CopyComplete
+D:\DotNetProjects\WebAPI\Parky\ParkyAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\DotNetProjects\WebAPI\Parky\ParkyAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
