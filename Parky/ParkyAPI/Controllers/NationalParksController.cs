@@ -93,7 +93,7 @@ namespace ParkyAPI.Controllers
                 return NotFound();
             }
             var nationalParkObj = _npRepo.GetNationalPark(nationalParkId);
-            if (!_npRepo.DeleteNationalPar(nationalParkObj))
+            if (!_npRepo.DeleteNationalPark(nationalParkObj))
             {
                 ModelState.AddModelError("", $"Something went wrong when deleting the record {nationalParkObj.Name}");
                 return StatusCode(500, ModelState);

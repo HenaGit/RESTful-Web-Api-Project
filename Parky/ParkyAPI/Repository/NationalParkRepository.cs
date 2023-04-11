@@ -21,7 +21,7 @@ namespace ParkyAPI.Repository
             return Save();
         }
 
-        public bool DeleteNationalPar(NationalPark nationalPark)
+        public bool DeleteNationalPark(NationalPark nationalPark)
         {
             _db.NationalParks.Remove(nationalPark);
             return Save();
