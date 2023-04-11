@@ -62,3 +62,8 @@ D:\DotNetProjects\WebAPI\Parky\ParkyAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib
 D:\DotNetProjects\WebAPI\Parky\ParkyAPI\obj\Debug\netcoreapp3.1\ParkyAPI.csproj.CopyComplete
 D:\DotNetProjects\WebAPI\Parky\ParkyAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
 D:\DotNetProjects\WebAPI\Parky\ParkyAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\DotNetProjects\WebAPI\Parky\ParkyAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\DotNetProjects\WebAPI\Parky\ParkyAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\DotNetProjects\WebAPI\Parky\ParkyAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DotNetProjects\WebAPI\Parky\ParkyAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DotNetProjects\WebAPI\Parky\ParkyAPI\obj\Debug\netcoreapp3.1\ParkyAPI.MvcApplicationPartsAssemblyInfo.cs
