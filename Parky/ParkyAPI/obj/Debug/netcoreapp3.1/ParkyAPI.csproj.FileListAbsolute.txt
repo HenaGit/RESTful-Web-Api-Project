@@ -67,3 +67,4 @@ D:\DotNetProjects\WebAPI\Parky\ParkyAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspN
 D:\DotNetProjects\WebAPI\Parky\ParkyAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\DotNetProjects\WebAPI\Parky\ParkyAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 D:\DotNetProjects\WebAPI\Parky\ParkyAPI\obj\Debug\netcoreapp3.1\ParkyAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\DotNetProjects\WebAPI\Parky\ParkyAPI\bin\Debug\netcoreapp3.1\ParkyAPI.xml
