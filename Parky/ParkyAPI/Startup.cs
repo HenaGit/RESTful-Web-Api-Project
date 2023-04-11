@@ -43,7 +43,19 @@ namespace ParkyAPI
                     new Microsoft.OpenApi.Models.OpenApiInfo()
                     {
                         Title = "Parky API",
-                        Version = "1"
+                        Version = "1",
+                        Description = "Hena Parky API",
+                        Contact = new Microsoft.OpenApi.Models.OpenApiContact()
+                        {
+                            Email = "heni.gebrehiwot@gmail.com",
+                            Name = "Henok Gebrehiwot",
+                            Url = new Uri("https://wwww.codewithhena.com")
+                        },
+                        License = new Microsoft.OpenApi.Models.OpenApiLicense()
+                        {
+                            Name = "MIT License",
+                            Url = new Uri("https://en.wikipedia.org/wiki/MIT_License")
+                        }
                     });
                 var xmlCommentFile = $"{Assembly.GetExecutingAssembly().GetName().Name}.xml";
                 var cmlCommentsFullPath = Path.Combine(AppContext.BaseDirectory, xmlCommentFile);
